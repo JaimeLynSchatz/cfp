@@ -1,6 +1,6 @@
 
 ##Talk Title
-Build Your Own Door to a Career in Tech
+*Build Your Own Door to a Career in Tech*
 
 ##How long is your presentation (in minutes; 10-40 is average)?
 10-15 minutes (need to actually time it)
@@ -39,6 +39,3 @@ If your proposal is selected and travel expenses would prevent you from attendin
 
 ##Will travel and lodging make attending Open Source & Feelings financially difficult?
 No, not at all. I live in the Greater Seattle area.
-
-##Making Life Easier
-If your proposal is selected, there are a few pieces of information we need to properly celebrate/publicise your talk. These items are optional, but they really do make our lives easier. :)
