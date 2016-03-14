@@ -1,3 +1,4 @@
+http://cfp.osfeels.com/thanks/451565e0571fb8bb518be7af2522be989422b50e
 
 ##Talk Title
 *Build Your Own Door to a Career in Tech*
